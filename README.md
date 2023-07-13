@@ -7,7 +7,6 @@
 <p>🌱 I’m currently learning to code in DEVF bootcamp and freeCodeCamp. </p>
 <p> You can contact me via Linkedin</p>
 <a href=""https://www.linkedin.com/in/nadiaruizdechavez/> @nadiaruizdechavez</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="15px"> 
 
 <!--
 **nadia19081d/nadia19081d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
