@@ -4,7 +4,7 @@
 
 
 <img src="https://media.tenor.com/pttxLYVbZH8AAAAM/hello-pinguin.gif" >
-<p>🌱 I’m currently learning to code on DEVF and freecodeCamp. </p>
+<p>🌱 I’m currently learning to code in DEVF bootcamp and freecodeCamp. </p>
 
 <!--
 **nadia19081d/nadia19081d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
