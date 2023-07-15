@@ -6,7 +6,7 @@
 <img src="https://media.tenor.com/pttxLYVbZH8AAAAM/hello-pinguin.gif" >
 <p>🌱 I’m currently learning to code in DEVF bootcamp and freeCodeCamp. </p>
 <p> You can contact me via Linkedin: </p>
-<a href=""https://www.linkedin.com/in/nadiaruizdechavez/> @nadiaruizdechavez</a>
+<a href="https://www.linkedin.com/in/nadiaruizdechavez"/> @nadiaruizdechavez</a>
 
 <!--
 **nadia19081d/nadia19081d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
